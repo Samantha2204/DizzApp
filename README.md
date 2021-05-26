@@ -1,13 +1,24 @@
 # DizzApp
+An application to train clinicians at all levels from basic trainee up to the consultant to test and treat Benign Paroxysmal Positional Vertigo (BPPV) patients.
 
----
+## Application Features
+<img width="1244" alt="Screen Shot 2021-05-26 at 5 17 06 pm" src="https://user-images.githubusercontent.com/37108397/119618478-4801d580-be46-11eb-8d36-f6e3be33667e.png">
 
-## Table of Contents
-- [Installation](## Installation)
-- [Running](## Running)
-- [Structure](## Structure)
-- [Android Release](## Android Release)
-- [iOS Release](## iOS Release)
+![image](https://user-images.githubusercontent.com/37108397/119618843-b2b31100-be46-11eb-9704-b105e3db9a48.png)
+
+## Functions
+* Video, Text And Audio Instructions
+* Responsive UI
+* Keep Awake Function
+* Animated Countdown Timer
+
+## Techonologies Used
+* React Native
+* React Navigation
+* Typescript
+* CSS
+* Adobe XD
+* Third-party Libraries.
 
 ## Installation
 1. Clone this repository
@@ -70,5 +81,5 @@
 3. Send the apk file to the targeted device for downloading.
 
 ## iOS Release
-1. Ask Stephen, he will be helping you to release the app on TestFlight.
-2. After the app is released, download TestFlight and paste the code/link into the app. (ask Stephen for the link if he didn't send you)
+1. Release the app on TestFlight.
+2. After the app is released, download TestFlight and paste the code/link into the app to download DizzApp.
