@@ -1,0 +1,6 @@
+module Pods_DizzApp_DizzAppTests {
+  umbrella header "Pods-DizzApp-DizzAppTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
